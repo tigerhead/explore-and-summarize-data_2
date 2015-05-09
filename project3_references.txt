@@ -1,0 +1,11 @@
+1. http://stackoverflow.com
+2. http://www.cookbook-r.com/Graphs/Scatterplots_%28ggplot2%29/
+3. http://docs.ggplot2.org
+4. https://s3.amazonaws.com/udacity-hosted-downloads/ud651/diamondsExample.html
+5. http://www.inside-r.org/packages/cran/ggplot2/docs/scale_brewer
+6. http://winefolly.com/review/wine-characteristics/
+7. http://www.ucdinaction.com/resources/Prediction_Wine_Quality_Chemical_Attributes.pdf
+8. http://en.wikipedia.org/wiki/Wine_tasting
+9. http://extension.psu.edu/food/enology/wine-production/sensory-analysis-of-wine-tasting-room-employee-training
+10. http://docs.ggplot2.org/0.9.3.1/geom_density.html
+11. http://ucanr.edu/repository/fileaccess.cfm?article=93367&p=TJFFBR&CFID=14606025&CFTOKEN=62344070
